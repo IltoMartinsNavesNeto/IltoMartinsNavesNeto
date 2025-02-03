@@ -21,3 +21,5 @@
 
 #
 - 🎓 Atualmente no 4º Periodo de Sistemas de Informação
+
+- 👨‍💻 estagiando na doal soluções 
