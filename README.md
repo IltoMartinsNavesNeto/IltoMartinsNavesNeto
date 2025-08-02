@@ -14,6 +14,7 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whitee"/>
     <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <br>
+     <img align="center" alt="SQL" src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <br>
     <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IltoMartinsNavesNeto&size_weight=0.5&count_weight=0.5)
