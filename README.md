@@ -23,4 +23,4 @@
 #
 - 🎓 Atualmente no 6º Periodo de Sistemas de Informação
 
-- 👨‍💻 estagiando na doal soluções 
+- 👨‍💻 Analista de Desenvolvimento de Sistemas na Doal Soluções 
