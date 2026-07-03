@@ -23,4 +23,4 @@
 #
 - 🎓 Atualmente no 7º Periodo de Sistemas de Informação
 
-- 👨‍💻 Analista de Desenvolvimento de Sistemas na Doal Soluções 
+- 👨‍💻 Desenvolvedor na DM Tecnologia
