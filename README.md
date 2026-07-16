@@ -21,6 +21,6 @@
 </div><br>
 
 #
-- 🎓 Atualmente no 7º Periodo de Sistemas de Informação
+- 🎓 Atualmente no 8º Periodo de Sistemas de Informação
 
 - 👨‍💻 Desenvolvedor na DM Tecnologia
