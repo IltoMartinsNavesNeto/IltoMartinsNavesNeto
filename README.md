@@ -70,12 +70,6 @@ Tenho foco principalmente em **Java, SQL e desenvolvimento de APIs**, buscando e
 
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-vercel.vercel.app?user=IltoMartinsNavesNeto&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
 
 
 ---
