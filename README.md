@@ -56,17 +56,27 @@ Tenho foco principalmente em **Java, SQL e desenvolvimento de APIs**, buscando e
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=IltoMartinsNavesNeto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" 
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=IltoMartinsNavesNeto&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Stats"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IltoMartinsNavesNeto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-    height="180"
-    alt="Top Languages"
+
+<img
+ src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IltoMartinsNavesNeto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+ height="180"
+ alt="Top Languages"
+/>
+
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-vercel.vercel.app?user=IltoMartinsNavesNeto&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
+
 
 ---
 
