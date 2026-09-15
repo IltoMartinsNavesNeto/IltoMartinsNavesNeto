@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Ilto Neto
 
-💻 **Desenvolvedor de Software Júnior**
+💻 **Desenvolvedor de Software **
 🎓 **8º período de Sistemas de Informação**
 🚀 Apaixonado por desenvolvimento, integração de sistemas e tecnologia.
 
@@ -12,7 +12,7 @@ Tenho foco principalmente em **Java, SQL e desenvolvimento de APIs**, buscando e
 
 ## 🚀 Sobre mim
 
-* 💻 Desenvolvedor de Software Júnior
+* 💻 Desenvolvedor de Software 
 * 🎓 8º período de **Sistemas de Informação**
 * ☕ Foco em desenvolvimento **Backend com Java**
 * 🔗 Experiência com **APIs e integrações entre sistemas**
